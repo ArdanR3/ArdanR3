@@ -51,8 +51,12 @@ Building web applications, game prototypes, and sharpening software engineering 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,cs,html,css,mysql,git,github,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=azure,css,php,html,cpp,c,cs,java,js,nodejs,unity,blender,github,git" alt="Tech Stack" />
   </a>
+  <br />
+  <img src="https://img.shields.io/badge/Antigravity-0b101b?style=for-the-badge&logo=google&logoColor=38bdf8" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Unity_Source_Control-0b101b?style=for-the-badge&logo=unity&logoColor=ffffff" alt="Unity Source Control" />
+  <img src="https://img.shields.io/badge/VR_%2F_XR-0b101b?style=for-the-badge&logo=meta&logoColor=ce3d27" alt="VR" />
 </p>
 
 <br />
