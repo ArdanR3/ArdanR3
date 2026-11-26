@@ -36,6 +36,30 @@
 
 <br />
 
+<div align="center">
+  <h3>🌸 <a href="https://anilist.co/user/ArdanR3/">Anilist watch list and reading list</a></h3>
+
+  <details open>
+    <summary><b>For anime watchers</b></summary>
+    <br />
+    <img src="./assets/anilist-anime.svg" alt="AniList Favorite Animes" />
+  </details>
+
+  <details>
+    <summary><b>For manga readers</b></summary>
+    <br />
+    <img src="./assets/anilist-manga.svg" alt="AniList Favorite Mangas" />
+  </details>
+
+  <details open>
+    <summary><b>For waifus simp</b></summary>
+    <br />
+    <img src="./assets/anilist-characters.svg" alt="AniList Favorite Characters" />
+  </details>
+</div>
+
+<br />
+
 ## ✍️ House rules
 
 > Ship small, ship often, and keep the repo clean.  
