@@ -30,6 +30,8 @@
   <img src="./assets/operator-file.svg" alt="Operator File" width="100%" />
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=ArdanR3&theme=radical&hide_border=true&background=0b101b&ring=ce3d27&fire=ce3d27&currStreakLabel=ce3d27" alt="GitHub Streak" />
+  <br /><br />
+  <img src="./assets/github-metrics.svg" alt="ArdanR3 GitHub Metrics" width="100%" />
 </div>
 
 <br />
