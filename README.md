@@ -31,7 +31,11 @@
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=ArdanR3&theme=radical&hide_border=true&background=0b101b&ring=ce3d27&fire=ce3d27&currStreakLabel=ce3d27" alt="GitHub Streak" />
   <br /><br />
-  <img src="./assets/github-metrics.svg" alt="ArdanR3 GitHub Metrics" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdanR3/ArdanR3/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdanR3/ArdanR3/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ArdanR3/ArdanR3/output/github-snake-dark.svg" alt="ArdanR3 Contribution Snake" width="100%" />
+  </picture>
 </div>
 
 <br />
